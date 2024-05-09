@@ -35,7 +35,7 @@ export default function RegisterScreen({ navigation }) {
           placeholder={"Digite seu e-mail"}
           value={email}
           onChangeText={setEmail}
-          style={{ marginBottom: 16 }}
+          style={{ marginBottom: 16 }}          
         />
         <TextInput
           mode="outlined"
